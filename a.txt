@@ -1,2 +1,6 @@
 123
+<<<<<<< HEAD
 456 edit by master
+=======
+456 edit by hot_fix
+>>>>>>> hot_fix
